@@ -26,4 +26,5 @@ Select Console ouptut (build log) parsing
 Tick Mark build Failed on Error  
 Tick Use project rule  
 Path to rule file in workspace :  parserules   
-parserules file contains a regex for checking if there is an error  contains a regex for checking if there is an error 
+parserules file contains a regex for checking if there is an error  contains a regex for checking if there is an error
+ 
